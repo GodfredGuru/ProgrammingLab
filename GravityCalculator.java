@@ -12,8 +12,6 @@ class GravityCalculator {
          * The object's position after 10.0 seconds is 0.0 m.
          */
 
-
-
         /**
          * BELOW IS THE MODIFIED PROGRAM
          */
