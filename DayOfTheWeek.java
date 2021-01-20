@@ -2,7 +2,7 @@ package ProgrammingLab;
 
 public class DayOfTheWeek {
     public static void printDayOfTheWeek(int day){
-        
+
         switch(day){
             case 0:
                 System.out.println("Sunday");
